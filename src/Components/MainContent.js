@@ -1,7 +1,5 @@
 import React from 'react'
 import CallCard from './CallCard';
-import Cards from './Cards'
-import Cards2 from './Cards2'
 import Circles from './Circles'
 import Graph from './Graph';
 
@@ -66,7 +64,7 @@ export default function MainContent() {
                     <p class="text-gray-200 text-center">Hello John Bayer, </p>
                     <p class="text-gray-200 text-center">You Have 8 new notifications, Today ! </p>
                     <div class="flex justify-center">
-                        <img width="150" height="150" src="https://www.freepnglogos.com/uploads/teacher-png/boy-teacher-clipart-clipground-25.png" />
+                        <img alt="img" width="150" height="150" src="https://www.freepnglogos.com/uploads/teacher-png/boy-teacher-clipart-clipground-25.png" />
 
                     </div>
                 </div>
