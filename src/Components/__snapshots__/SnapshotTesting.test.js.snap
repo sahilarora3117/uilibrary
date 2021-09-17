@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing Graph Circular Test 1`] = `
+<canvas
+  data-testid="canvas"
+  height={150}
+  onClick={[Function]}
+  role="img"
+  width={300}
+/>
+`;
+
+exports[`snapshot testing Header Test 1`] = `
+<nav
+  class="bg-gray-900 shadow dark:bg-gray-800"
+>
+  <div
+    class="mr-6 px-1 py-4"
+  >
+    <div
+      class="md:flex md:items-center md:justify-between"
+    >
+      <div
+        class="flex-1 md:flex md:items-center md:justify-between"
+      >
+        <div
+          class="flex flex-col -mx-4 md:flex-row md:items-center md:mx-8"
+        />
+        <div
+          class="flex items-center mt-4 md:mt-0"
+        >
+          <button
+            aria-label="show notifications"
+            class="hidden mx-4 text-gray-600 md:block dark:text-gray-200 hover:text-gray-700 dark:hover:text-gray-400 focus:text-gray-700 dark:focus:text-gray-400 focus:outline-none"
+          >
+            <svg
+              class="w-6 h-6"
+              fill="none"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M15 17H20L18.5951 15.5951C18.2141 15.2141 18 14.6973 18 14.1585V11C18 8.38757 16.3304 6.16509 14 5.34142V5C14 3.89543 13.1046 3 12 3C10.8954 3 10 3.89543 10 5V5.34142C7.66962 6.16509 6 8.38757 6 11V14.1585C6 14.6973 5.78595 15.2141 5.40493 15.5951L4 17H9M15 17V18C15 19.6569 13.6569 21 12 21C10.3431 21 9 19.6569 9 18V17M15 17H9"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+              />
+            </svg>
+          </button>
+          <h3
+            class="mx-2 text-sm font-medium text-gray-200"
+          >
+            John Bayers
+          </h3>
+          <button
+            aria-label="toggle profile dropdown"
+            class="flex items-center focus:outline-none"
+            type="button"
+          >
+            <div
+              class="w-8 h-8 overflow-hidden border-2 border-gray-400 rounded-full"
+            >
+              <img
+                alt="avatar"
+                class="object-cover w-full h-full"
+                src="https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80"
+              />
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+`;
+
+exports[`snapshot testing HeadingComponent Test 1`] = `
+<div
+  className="bg-gray-900"
+>
+  <div
+    class="flex justify-between ..."
+  >
+    <div>
+      <p
+        class=" font-sans  ml-6 text-2xl text-gray-300"
+      >
+        Dashboard
+      </p>
+      <p
+        class=" font-sans  ml-6 text-lg text-gray-300"
+      >
+        Monday, 
+        <span
+          class="text-blue-400"
+        >
+          02 July, 2020
+        </span>
+         
+      </p>
+    </div>
+    <div>
+      <div
+        className="flex flex-row"
+      >
+        <button
+          class="mr-4 flex items-center px-2 py-2 font-medium tracking-wide text-white transition-colors duration-200 transform bg-blue-600 rounded-sm dark:bg-gray-800 hover:bg-blue-500 dark:hover:bg-gray-700 focus:outline-none focus:bg-blue-500 dark:focus:bg-gray-700"
+        >
+          <svg
+            class="bi bi-plus"
+            fill="currentColor"
+            height="16"
+            viewBox="0 0 16 16"
+            width="16"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4z"
+            />
+          </svg>
+          <span
+            class="mx-1"
+          >
+            Add
+          </span>
+        </button>
+        <div
+          class="relative text-gray-600 mr-7"
+        >
+          <input
+            class="bg-white h-10 px-5 pr-10 rounded-full text-sm focus:outline-none"
+            name="serch"
+            placeholder="Search"
+            type="search"
+          />
+          <button
+            class="absolute right-0 top-0 mt-3 mr-4"
+            type="submit"
+          >
+            <svg
+              class="h-4 w-4 fill-current"
+              height="512px"
+              id="Capa_1"
+              version="1.1"
+              viewBox="0 0 56.966 56.966"
+              width="512px"
+              x="0px"
+              xmlns="http://www.w3.org/2000/svg"
+              y="0px"
+            >
+              <path
+                d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23  s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92  c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17  s-17-7.626-17-17S14.61,6,23.984,6z"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
